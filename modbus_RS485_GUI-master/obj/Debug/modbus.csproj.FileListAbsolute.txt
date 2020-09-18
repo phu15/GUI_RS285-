@@ -1,0 +1,21 @@
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\bin\Debug\modbus.exe
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\bin\Debug\modbus.pdb
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\bin\Debug\nmodbuspc.dll
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\bin\Debug\log4net.dll
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\obj\Debug\modbus.csprojResolveAssemblyReference.cache
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\obj\Debug\modbus.Properties.Resources.resources
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\obj\Debug\modbus.csproj.GenerateResource.Cache
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\obj\Debug\modbus.exe
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\obj\Debug\modbus.pdb
+c:\users\tech\documents\visual studio 2012\Projects\modbus\modbus\obj\Debug\modbus.Form1.resources
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\bin\Debug\modbus.exe
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\bin\Debug\modbus.pdb
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\bin\Debug\log4net.dll
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.csprojAssemblyReference.cache
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.Form1.resources
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.Properties.Resources.resources
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.csproj.GenerateResource.cache
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.csproj.CoreCompileInputs.cache
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.csproj.CopyComplete
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.exe
+C:\Users\sevt_user\Downloads\modbus_RS485_GUI-master\modbus_RS485_GUI-master\obj\Debug\modbus.pdb
